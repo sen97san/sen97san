@@ -9,5 +9,7 @@ sen97san/sen97san is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <html>
-  <body>テスト<br/><h1>Hello World</h1></body>
+  <body>テスト<br/><h1>Hello World</h1>
+  <h2>テスト2</h2>
+  </body>
 </html>
